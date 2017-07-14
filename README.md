@@ -64,7 +64,7 @@ A collection of links, interesting information that cover what happened during E
 
 **Ember, more than the sum of its parts by [Ricardo Mendes](https://twitter.com/locks)**
 
-- Slides: TBR
+- Slides: https://speakerdeck.com/locks/ember-dot-js-more-than-the-sum-of-its-parts
 - Video: TBR
 - Links
   - [New api docs website!](https://emberjs.com/api) & [Github](https://github.com/ember-learn/ember-api-docs)
@@ -84,7 +84,7 @@ A collection of links, interesting information that cover what happened during E
 
 **Better Test selectors leveraging the complete Ember toolbelt by [Marco Otte-Witte](https://twitter.com/marcoow)**
 
-- Slides: TBR
+- Slides: https://speakerdeck.com/marcoow/leveraging-the-complete-ember-toolbelt
 - Video: TBR
 - Links
   - [ember-test-selectors](https://github.com/simplabs/ember-test-selectors)
@@ -109,7 +109,7 @@ A collection of links, interesting information that cover what happened during E
 
 **The Modern State of Web Components - A Glimmer of Hope by [Jessica Jordan](https://twitter.com/jjordan_dev)**
 
-- Slides: TBR
+- Slides: https://speakerdeck.com/jessicajordanjs/the-modern-state-of-web-components-a-glimmer-of-hope
 - Video: TBR
 - Links
   - [Webcomponents spec](https://github.com/w3c/webcomponents)
