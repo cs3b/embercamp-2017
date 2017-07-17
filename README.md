@@ -20,6 +20,7 @@ A collection of links, interesting information that cover what happened during E
   - [Glimmer: 201 Created](https://github.com/201-created/bodega-glimmer)
   - [Glimmer: Landed Module unification](https://github.com/emberjs/rfcs/blob/master/text/0143-module-unification.md)
   - [module-migrator](https://github.com/rwjblue/ember-module-migrator)
+  - [author blog post](https://madhatted.com/2017/7/12/embercamp-module-unification-update)
 - Other information
   - Ember Module unification (Beta ember-cli 2.14+): `ember new <app-name> -b ember-module-unification-blueprint`
 
